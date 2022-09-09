@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero_section{
+    height: 110vh;
+    background: url("https://goldenblatt.bold-themes.com/main-demo/wp-content/uploads/sites/2/2020/01/large_background.jpg");
+    background-position: center 2.1003px;
+    background-size: cover;
+    overflow: hidden;
+}
+.my-img{
+    height: 105vh;
+}
+.card1{
+    height: 12rem;
+    width: 12rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+.my-img1{
+    height: 100vh;
+}
+.mybg1{
+    background-color: rgba(128, 128, 128, 0.384);
+}
+.card_md1{
+    height: 10rem;
+    width: 14rem;
+    margin: 1rem;
+    padding: 1rem;
+}
